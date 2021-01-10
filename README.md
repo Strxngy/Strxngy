@@ -1,3 +1,4 @@
+
 <!--
 **Strxngy/Strxngy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -11,5 +12,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->
-<img src="https://github-readme-stats.vercel.app/api?username=Strxngy&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Strxngy&layout=compact&theme=synthwave"/>
+
+[![Donate with Bitcoin](https://en.cryptobadges.io/badge/micro/19UQjwNnMZ7Qg9tePUCosTSQUns8Mefmr8)](https://en.cryptobadges.io/donate/19UQjwNnMZ7Qg9tePUCosTSQUns8Mefmr8) <img src="https://komarev.com/ghpvc/?username=Strxngy&color=blueviolet"/> <img src="https://img.shields.io/twitter/follow/Strxngy.svg"/>
