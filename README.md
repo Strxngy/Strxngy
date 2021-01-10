@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Strxngy&layout=compact&theme=synthwave"/>
 
-[![Donate with Bitcoin](https://en.cryptobadges.io/badge/micro/19UQjwNnMZ7Qg9tePUCosTSQUns8Mefmr8)](https://en.cryptobadges.io/donate/19UQjwNnMZ7Qg9tePUCosTSQUns8Mefmr8) <img src="https://komarev.com/ghpvc/?username=Strxngy&color=blueviolet"/> <img src="https://img.shields.io/twitter/follow/Strxngy.svg"/>
+[![Donate with Bitcoin](https://en.cryptobadges.io/badge/micro/19UQjwNnMZ7Qg9tePUCosTSQUns8Mefmr8)](https://en.cryptobadges.io/donate/19UQjwNnMZ7Qg9tePUCosTSQUns8Mefmr8) <img src="https://komarev.com/ghpvc/?username=Strxngy&color=blueviolet"/> [![Twitter](https://img.shields.io/twitter/follow/Strxngy.svg)](https://twitter.com/strxngy)
